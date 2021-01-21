@@ -10,6 +10,6 @@ Implemented neural network is used to classify iris data. In order not to use th
 
 To use this package, you just need to run iris_classification.py.
 
-Reference:
-[1] https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+Reference:  
+[1] https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65  
 [2] https://towardsdatascience.com/building-neural-network-from-scratch-9c88535bf8e9
