@@ -1,0 +1,13 @@
+README.md
+setup.py
+FF_ANN/__init__.py
+FF_ANN/activation_function.py
+FF_ANN/iris_classification.py
+FF_ANN/layers.py
+FF_ANN/loss_gradloss.py
+FF_ANN/network_training.py
+FF_ANN/scaling.py
+FF_ANN.egg-info/PKG-INFO
+FF_ANN.egg-info/SOURCES.txt
+FF_ANN.egg-info/dependency_links.txt
+FF_ANN.egg-info/top_level.txt
